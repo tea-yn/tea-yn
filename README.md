@@ -12,7 +12,7 @@
  <!-- アイコン一覧 -->
 <h3 align="left">Languages and Tools:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=java,cs,html,css,php,mysql,github,unity,ae,ps)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,cs,html,css,mysql,github,unity,ae,ps)](https://skillicons.dev)
 <br>
 <!--GithubState// -->
 <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=tea-yn&count_private=true&show_icons=true&show_icons=true&theme=tokyonight" /> 
